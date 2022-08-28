@@ -1,20 +1,9 @@
-# LeetcodeChallenge
-Solutions for Leetcode problems!
+# Programmers
+Solutions for programmers problems!
 
 <p>
 
-<img src = "https://static.leetcode-cn.com/cn-legacy-assets/images/LeetCode_Sharing.png"/>
+<img src = "!https://user-images.githubusercontent.com/63603383/187090190-f716f7a4-b6ef-43fd-872c-4ded1fcea0ba.png"/>
 
 </p>
 
-※ I'm on the 'solving 2 problems a day' challenge with Minseong Kang until I'm discharged.
-
-
-  
-| Owner  | Repository Name |
-| ------------- | ------------- |
-| Junyeong Ahn  |  [Jun_challenge](https://github.com/AhnJunYeong0319/LeetcodeChallenge/tree/main/Jun_challenge)  |
-| Minseong kang  |  [KMS_challenge](https://github.com/AhnJunYeong0319/LeetcodeChallenge/tree/main/KMS_challenge)  |
-
-<br><br>
-The first bet : Junyeong Ahn won 🏆 
